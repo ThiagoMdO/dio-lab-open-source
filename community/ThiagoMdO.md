@@ -21,7 +21,7 @@ Gostei demais da experiência, aprendi a teoria e prática das metodologias áge
 
 ## ☕
 
-Então até o momento estou estudando Java com outras tecnologias e recentemente refiz um desafio que foi em grupo, desenvolvo sozinho dessa vez e tentei dá o melhor, usei um pouco mais de paradigma funcional no código, deixei o código mais clean, separando métodos e suas expecíficas funções, aprendi mais de testes com JUnit e Mokito e tentei caprichar, documentei com o Swagger, estou finalizando essa RESTFull API de três microsserviços para postar logo no LinkedIn. 
+Então até o momento estou estudando Java com outras tecnologias e recentemente refiz um desafio que foi em grupo, desenvolvo sozinho dessa vez e tentei dá o melhor, usei um pouco mais de paradigma funcional no código, deixei o código mais clean, separando métodos e suas expecíficas funções, aprendi mais de testes com JUnit e Mockito e tentei caprichar, documentei com o Swagger, estou finalizando essa RESTFull API de três microsserviços para postar logo no LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-mdo/)
 
