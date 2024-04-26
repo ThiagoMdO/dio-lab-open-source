@@ -14,14 +14,14 @@ Atualmente estou fazendo Engenharia de Software, e a mais ou menos um ano e
 
 ## 👨🏼‍💻
 
-A um ano iniciei um curso de desenvolvimento WEB, Full Stack, o Front end: HTML, CSS, JavaScript, jQuery e Back end: PHP e MySQL, assim que finalizei me desafiei a criar, de uma ideia com um amigo, um ERP básico para uma loja de roupa, um monolíto, com o que havia aprendido, não entrou ainda em produção, pois me dediquei a estudar Java devido a outra oportunidade que tive, lodo depois. Mas o ERP está pronto para uso, vou disponibilizar nos links abaixo.
+A um ano iniciei um curso de desenvolvimento WEB, Full Stack, o Front end: HTML, CSS, JavaScript, jQuery e Back end: PHP e MySQL, assim que finalizei me desafiei a criar, de uma ideia com um amigo, um ERP básico para uma loja de roupa, um monolíto, com o que havia aprendido, não entrou ainda em produção, pois me dediquei a estudar Java devido a outra oportunidade que tive, logo depois. Mas o ERP está pronto para uso, vou disponibilizar nos links abaixo.
 
-Em agosto de 2023 comecei a estudar Java por conta de uma oportunidade que tive numa empresa de tecnologia, foi um grande avanço para mim na área, tive a chanve de participar de um estágio, que funcionou como um programa de bolsas focado par estudar Java, Spring Boot e quase no final estudamos mais sobre a cloud da AWS, deram para a gente um voucher para realizar a prova AWS Cloud Practitioner, que é a certificação ao nível Foundation, e consegui com exito a certificação.
+Em agosto de 2023 comecei a estudar Java por conta de uma oportunidade que tive numa empresa de tecnologia, foi um grande avanço para mim na área, tive a chance de participar de um estágio, que funcionou como um programa de bolsas focado para estudar Java, Spring Boot e quase no final estudamos mais sobre a cloud da AWS, deram para a gente um voucher para realizar a prova AWS Cloud Practitioner, que é a certificação ao nível Foundation, e consegui com exito a certificação.
 Gostei demais da experiência, aprendi a teoria e prática das metodologias ágeis, Scrum e Kanbam, minha curva de aprendido diminuiu mais com os materiais e desafios que foram propostos, consegui evoluir e percebi isso, o aprendizado me deu um hábito de tá sempre buscando estudar.
 
 ## ☕
 
-Então até o momento estou estudando Java com outras tecnologias e recentemente refiz um desafio que foi em grupo, desenvolvo sozinho dessa vez e tentei dá o melhor, usei um pouco mais de paradigma funcional no código, deixei o código mais clean, separando métodos e suas expecíficas funções, aprendi mais de testes com JUnit e Mokito e tentei caprichar, documentei com o Swagger, estou finalizando essa RESTFull API de três microsserviços para postar logo no LinkedIn. 
+Então até o momento estou estudando Java com outras tecnologias e recentemente refiz um desafio que foi em grupo, desenvolvi sozinho dessa vez e tentei dá o melhor, usei um pouco mais de paradigma funcional no código, deixei o código mais clean, separando métodos e suas expecíficas funções, aprendi mais de testes com JUnit e Mokito e tentei caprichar, documentei com o Swagger, estou finalizando essa RESTFull API de três microsserviços para postar logo no LinkedIn. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-mdo/)
 
